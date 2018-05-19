@@ -1,0 +1,15 @@
+{
+  "name": "image-assemble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chernyaev Artyom [ChernyaevArtyom@yandex.ru]",
+  "license": "ISC",
+  "devDependencies": {
+    "pngjs": "^3.3.3",
+    "zlib": "^1.0.5"
+  }
+}
